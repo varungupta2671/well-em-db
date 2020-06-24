@@ -1,0 +1,22 @@
+{
+    "_id": {
+        "$oid": "5eee24fb4418415434e25240"
+    },
+    "hid": "111111",
+    "email": "yr@gmail.com",
+    "aadharid": "01fdkf3253",
+    "phone": "9388845547",
+    "name": "Vg",
+    "age": 27,
+    "bg": "AB+",
+    "weight": 72,
+    "height": 165,
+    "dob": {
+        "$date": "1993-01-01T18:30:00.000Z"
+    },
+    "sex": "m",
+    "address": "332 Neeladhri, E-City",
+    "city": "Bangalore",
+    "country": "India",
+    "__v": 0
+}
