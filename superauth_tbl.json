@@ -1,0 +1,12 @@
+{
+  "_id": "P12052421284664",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2020-06-24T15:57:24.867Z"
+  },
+  "aadharid": "321123456",
+  "phone": "9988845547",
+  "password": "$2a$10$LwenrdaWqtC002.VUzRI7uFVk1e/B6PcGnUX8o9f5QxdJfvDkoYt2",
+  "utype": "p",
+  "__v": 0
+}
